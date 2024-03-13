@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! <br>I am Ismael Ibrahim, a Software Engineering Student.<br>I am interested in AI, ML, and UI\UX designs.
+Hello there! <br>I am Ismael Ibrahim, a Software Engineering Student.<br>I am interested in Cybersecurity and UI\UX designs.
 
 
 ## 🌐 Socials:
